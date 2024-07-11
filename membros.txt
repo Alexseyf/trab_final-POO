@@ -1,0 +1,42 @@
+[
+  {
+    "_nome": "João Silva",
+    "_cpf": "123.456.789-00",
+    "_nascimento": "1990-01-01T02:00:00.000Z",
+    "_telefone": "(11) 98765-4321",
+    "_endereco": "Rua A, 123 - São Paulo, SP",
+    "_numeroMatricula": "001"
+  },
+  {
+    "_nome": "Maria Oliveira",
+    "_cpf": "987.654.321-00",
+    "_nascimento": "1985-10-02T03:00:00.000Z",
+    "_telefone": "(21) 12345-6789",
+    "_endereco": "Avenida B, 456 - Rio de Janeiro, RJ",
+    "_numeroMatricula": "002"
+  },
+  {
+    "_nome": "Pedro Souza",
+    "_cpf": "456.789.123-00",
+    "_nascimento": "1982-11-10T03:00:00.000Z",
+    "_telefone": "(31) 98765-4321",
+    "_endereco": "Rua C, 789 - Belo Horizonte, MG",
+    "_numeroMatricula": "003"
+  },
+  {
+    "_nome": "Ana Rodrigues",
+    "_cpf": "789.123.456-00",
+    "_nascimento": "1988-05-07T03:00:00.000Z",
+    "_telefone": "(41) 12345-6789",
+    "_endereco": "Avenida D, 159 - Curitiba, PR",
+    "_numeroMatricula": "004"
+  },
+  {
+    "_nome": "Lucas Almeida",
+    "_cpf": "321.654.987-00",
+    "_nascimento": "1995-12-04T02:00:00.000Z",
+    "_telefone": "(51) 98765-4321",
+    "_endereco": "Rua E, 753 - Porto Alegre, RS",
+    "_numeroMatricula": "005"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "_titulo": "1984",
+    "_autor": "George Orwell",
+    "_ano": 1949,
+    "_editora": "Secker & Warburg",
+    "_isbn": "978-0-451-52493-5"
+  },
+  {
+    "_titulo": "O Senhor dos Anéis",
+    "_autor": "J.R.R. Tolkien",
+    "_ano": 1954,
+    "_editora": "George Allen & Unwin",
+    "_isbn": "978-0-261-10325-5"
+  },
+  {
+    "_titulo": "Orgulho e Preconceito",
+    "_autor": "Jane Austen",
+    "_ano": 1813,
+    "_editora": "T. Egerton, Whitehall",
+    "_isbn": "978-0-141-43951-2"
+  },
+  {
+    "_titulo": "O Pequeno Príncipe",
+    "_autor": "Antoine de Saint-Exupéry",
+    "_ano": 1943,
+    "_editora": "Reynal & Hitchcock",
+    "_isbn": "978-0-15-603514-7"
+  },
+  {
+    "_titulo": "Cem Anos de Solidão",
+    "_autor": "Gabriel García Márquez",
+    "_ano": 1967,
+    "_editora": "Editorial Sudamericana",
+    "_isbn": "978-0-06-112009-6"
+  },
+  {
+    "_titulo": "O Apanhador no Campo de Centeio",
+    "_autor": "J.D. Salinger",
+    "_ano": 1951,
+    "_editora": "Little, Brown and Company",
+    "_isbn": "978-0-316-76948-9"
+  },
+  {
+    "_titulo": "Hamlet",
+    "_autor": "William Shakespeare",
+    "_ano": 1601,
+    "_editora": "Nicholas Ling e John Trundell",
+    "_isbn": "978-0-7434-7712-3"
+  },
+  {
+    "_titulo": "A Metamorfose",
+    "_autor": "Franz Kafka",
+    "_ano": 1915,
+    "_editora": "Kurt Wolff Verlag",
+    "_isbn": "978-0-553-21369-4"
+  },
+  {
+    "_titulo": "Frankenstein",
+    "_autor": "Mary Shelley",
+    "_ano": 1818,
+    "_editora": "Lackington, Hughes, Harding, Mavor, & Jones",
+    "_isbn": "978-0-14-143957-4"
+  },
+  {
+    "_titulo": "O Grande Gatsby",
+    "_autor": "F. Scott Fitzgerald",
+    "_ano": 1925,
+    "_editora": "Charles Scribner's Sons",
+    "_isbn": "978-0-7432-7356-5"
+  },
+  {
+    "_titulo": "Dom Quixote",
+    "_autor": "Miguel de Cervantes",
+    "_ano": 1605,
+    "_editora": "Francisco de Robles",
+    "_isbn": "978-0-451-52975-6"
+  },
+  {
+    "_titulo": "A Divina Comédia",
+    "_autor": "Dante Alighieri",
+    "_ano": 1320,
+    "_editora": "Società Dantesca Italiana",
+    "_isbn": "978-0-14-044420-5"
+  },
+  {
+    "_titulo": "Moby Dick",
+    "_autor": "Herman Melville",
+    "_ano": 1851,
+    "_editora": "Harper & Brothers",
+    "_isbn": "978-0-14-143724-2"
+  },
+  {
+    "_titulo": "O Retrato de Dorian Gray",
+    "_autor": "Oscar Wilde",
+    "_ano": 1890,
+    "_editora": "Ward, Lock, and Company",
+    "_isbn": "978-0-14-143825-6"
+  },
+  {
+    "_titulo": "A Odisseia",
+    "_autor": "Homero",
+    "_ano": -800,
+    "_editora": "Editora Abril",
+    "_isbn": "978-85-359-0292-1"
+  },
+  {
+    "_titulo": "Eneida",
+    "_autor": "Virgílio",
+    "_ano": -19,
+    "_editora": "Editora 34",
+    "_isbn": "978-85-7326-519-1"
+  },
+  {
+    "_titulo": "A Ilíada",
+    "_autor": "Homero",
+    "_ano": -800,
+    "_editora": "Editora Abril",
+    "_isbn": "978-85-359-0291-4"
+  },
+  {
+    "_titulo": "Ulisses",
+    "_autor": "James Joyce",
+    "_ano": 1922,
+    "_editora": "Sylvia Beach",
+    "_isbn": "978-0-14-118261-8"
+  },
+  {
+    "_titulo": "Madame Bovary",
+    "_autor": "Gustave Flaubert",
+    "_ano": 1856,
+    "_editora": "Michel Lévy frères",
+    "_isbn": "978-0-14-144114-0"
+  },
+  {
+    "_titulo": "Guerra e Paz",
+    "_autor": "Lev Tolstói",
+    "_ano": 1869,
+    "_editora": "Russkiy Vestnik",
+    "_isbn": "978-0-06-083550-4"
+  }
+]
